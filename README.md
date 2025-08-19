@@ -30,5 +30,4 @@ The project demonstrates the application of Object-Oriented Programming (OOP) pr
 - **Development Environment**: Any C++ IDE or compiler  
 
 
-## 📁 Project Structure
 
